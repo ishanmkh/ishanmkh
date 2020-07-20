@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Ishan 👋 
 
 <!--
 **ishanmkh/ishanmkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an entrepreneur and I help build machine intelligence products.
+
+
+## Find me around the web 🌎:
+
+- Recap of what i've worked on <a href="https://www.linkedin.com/in/ishanm/">LinkedIn</a> 🏗️
+- Mostly consuming informatio at <a href="https://twitter.com/ishanmkh"> Twitter</a> 📚
